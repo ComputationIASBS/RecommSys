@@ -24,7 +24,9 @@ To reproduce the paper results:
 
 3- Use two `.pt` file and run the `XGboost_params_grid_search.py` to tune hyperparameters for XGBoost model.
 
-Feel free to try different parameters and any contribution is welcomed. if you have problem in any section please contact us. 
+Feel free to try different parameters and any contribution is welcomed. if you have problem in any section please report us. 
+
+![embedding_dim](plots/comparison_dim_loss.png)
 
 #### Cite Us
 ```
